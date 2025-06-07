@@ -21,6 +21,7 @@ Other versions may work but are not deffinetlly.
 - Handles full 3D rotation and coupled axis behavior
 - Uses quaternion math without normalization artifacts
 - Error vector extracted from quaternion difference using quaternion multiplication
+- high frequency noise addition and flitering
 
 ---
 
